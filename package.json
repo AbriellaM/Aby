@@ -4,7 +4,7 @@
   "description": "e-commerce app",
   "main": "index.js",
   "scripts": {
-    "dev": "node index.js"
+    "dev": "node ./api/index.js"
   },
   "keywords": [
     "dps",
